@@ -1,3 +1,5 @@
+# asr_thchs30
+使用THCHS30 中文语音数据集训练了语言模型，并使用该模型进行语音识别。  
 ## 模型文件
 _下载地址：_
 链接：https://pan.baidu.com/s/1y-tEIA34e48t38uSNzV33g  
