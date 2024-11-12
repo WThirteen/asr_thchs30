@@ -1,5 +1,7 @@
 # asr_thchs30
 使用THCHS30 中文语音数据集训练了语言模型，并使用该模型进行语音识别。  
+本项目仅提供语音识别，而并无训练模型的代码。  
+若想训练一个语音识别模型，可参考[Chinese speech recognition | 中文语音识别](https://github.com/WThirteen/asr_AISHELL-3)
 ## 模型文件
 _下载地址：_
 链接：https://pan.baidu.com/s/1y-tEIA34e48t38uSNzV33g  
